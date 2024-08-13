@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import{Home, Cources, Contact, Footer, Navbar,Teacher, AboutQuick,About}from './Component/index'
+import{Home, Cources, Contact, Footer, Navbar, AboutQuick,About}from './Component/index'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import './App.css'
@@ -14,7 +14,7 @@ function App() {
       <AboutQuick/>
       <About/>
       <Cources/>
-      <Teacher/>
+      
       <Contact/>
       
       <Footer/>
